@@ -1,3 +1,2 @@
-# sigir16-eals
-Experiments codes for SIGIR'16 paper "Fast Matrix Factorization for Online Recommendation with Implicit Feedback "
+Experiments codes for WWW 2018 Poster paper "An Improved Sampler for Bayesian Personalized Ranking by Leveraging View Data "
 
