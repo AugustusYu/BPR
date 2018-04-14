@@ -51,8 +51,8 @@ public class BPR_plusview extends main {
 			showbound = Integer.parseInt(argv[11]);
 			showtime = Integer.parseInt(argv[12]);			
 			paraK = Integer.parseInt(argv[13]);
-			omega1 = Integer.parseInt(argv[14]);
-			omega2 = Integer.parseInt(argv[15]);
+			omega1 = Double.parseDouble(argv[14]);
+			omega2 = Double.parseDouble(argv[15]);
 			omega3 = 1 - omega1 - omega2;
 			parad = omega1 / (1 - omega3);
 		}
